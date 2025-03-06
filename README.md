@@ -19,11 +19,11 @@ Here are some of the projects I have worked on:
 - **Currency Converter** – Converts currency values using live exchange rates.  
 
 ## 🔗 Live Demo  
-[Check out my portfolio here!](#) *(Add your portfolio link here)*  
+[Check out my portfolio here!](#) *https://tarun-102.github.io/My-Portfolio/*  
 
 ## 📬 Connect with Me  
 📧 Email: *(Your email here)*  
-📌 GitHub: [github.com/yourusername](#)  
-📌 LinkedIn: [linkedin.com/in/yourusername](#)  
+📌 GitHub:   
+📌 LinkedIn:
 
 Feel free to explore and connect with me! 😊  
