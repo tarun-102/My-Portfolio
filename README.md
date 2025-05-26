@@ -22,8 +22,7 @@ Here are some of the projects I have worked on:
 [Check out my portfolio here!](#) *https://tarun-102.github.io/My-Portfolio/*  
 
 ## 📬 Connect with Me  
-📧 Email: *(Your email here)*  
-📌 GitHub:   
-📌 LinkedIn:
+📧 Email: Tarungohil102@gmail.com  
+📌 LinkedIn: https://www.linkedin.com/in/tarun-gohil-41546b358/
 
 Feel free to explore and connect with me! 😊  
